@@ -26,7 +26,7 @@ The project was developed using Python 3.12.12. It is recommended to use a virtu
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/borrja02/QML-Signal-Noise-HEP.git](https://github.com/borrja02/QML-Signal-Noise-HEP.git)
+   git clone [https://github.com/borrja02/QML_ttH_signal_noise_classification.git](https://github.com/borrja02/QML_ttH_signal_noise_classification.git)
 2. Install the necessary libraries:
    ```bash
    pip install -r requirements.txt
